@@ -144,3 +144,4 @@ Access the complete Colab notebook on Google Drive: [Audio Transcription and Ana
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+https://github.com/karthikeyan261222/Healthcare-call-center/blob/main/LICENSE
